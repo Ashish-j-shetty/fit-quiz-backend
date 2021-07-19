@@ -4,6 +4,7 @@ const quizData = [
       "https://s3-us-west-1.amazonaws.com/tryinteract-uploads/591cf05d4691d600116701e3/_e94c98c0-4579-11e7-a744-0b8c60cf3127.jpg",
     name: "Quiz on fitnes?",
     id: "quiz-1",
+    totalScore: 50,
     questions: [
       {
         id: "q_FvNgCz12b",
@@ -107,12 +108,14 @@ const quizData = [
         ],
       },
     ],
+    totalScore: 50,
   },
   {
     image:
       "https://s3-us-west-1.amazonaws.com/tryinteract-uploads/5bcbc4c79fea260013e6cb72/_d795c510-d4c6-11e8-bb1d-cb291eba3229.jpg",
     name: "Nutrition & Healthy Eating ?",
     id: "quiz-2",
+    totalScore: 50,
     questions: [
       {
         id: "q_FvNgCz12b-1",
